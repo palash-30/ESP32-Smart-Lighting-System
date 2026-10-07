@@ -1,0 +1,20 @@
+# Arduino
+*.hex
+*.bin
+*.elf
+build/
+.pio/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials
+secrets.h
+credentials.h
+config_local.h
+
+# Temporary files
+*.tmp
+*.log
